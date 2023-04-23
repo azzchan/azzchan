@@ -1,5 +1,6 @@
 ![Banner](https://i.ibb.co/XXV1XgC/banner-git2.png)
 ![Banner](https://i.ibb.co/tK31JjR/banner-git.png)
+![Banner](https://i.ibb.co/S35gm3N/banner-git3.png)
 # 💫About Me :
 Working on "Anime Notify"
 Learning about Python and Frameworks like Flask.
