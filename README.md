@@ -1,4 +1,4 @@
-[Banner](https://i.ibb.co/Ns2HGHB/banner-git.png)
+![Banner](https://i.ibb.co/Ns2HGHB/banner-git.png)
 # 💫About Me :
 Working on "Anime Notify"
 Learning about Python and Frameworks like Flask.
