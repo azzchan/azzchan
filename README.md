@@ -1,1 +1,1 @@
-![Profile-Design](https://i.ibb.co/BKbSMmy/baner-git3.png)
+![Profile-Design](https://i.ibb.co/N9PSg8h/baner-git.png)
