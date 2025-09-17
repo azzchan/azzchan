@@ -1,1 +1,1 @@
-![Profile-Design](https://i.imgur.com/Uyf5Uny.png)
+![Profile-Design](https://i.imgur.com/wBeKOqf.png)
